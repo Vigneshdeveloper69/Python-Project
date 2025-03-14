@@ -1,9 +1,0 @@
-{
-    "12345": {
-        "name": "Vignesh M",
-        "balance": 1000.0,
-        "transactions": [
-            "Deposited : $1000.0"
-        ]
-    }
-}
