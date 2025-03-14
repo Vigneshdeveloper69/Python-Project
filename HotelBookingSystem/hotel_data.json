@@ -1,0 +1,21 @@
+{
+    "rooms": {
+        "100": {
+            "room_type": "2BHK",
+            "price": 12000,
+            "availability": false
+        }
+    },
+    "customers": {
+        "906": {
+            "name": "Vignesh M",
+            "phone": 9150955979,
+            "booked_room": null
+        },
+        "1811": {
+            "name": "Vetriselvan M",
+            "phone": 932832921,
+            "booked_room": 100
+        }
+    }
+}
