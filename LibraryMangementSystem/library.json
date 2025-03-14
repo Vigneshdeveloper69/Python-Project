@@ -1,0 +1,69 @@
+{
+    "books": {
+        "09": {
+            "title": "The Vig",
+            "author": ""
+        },
+        "5": {
+            "title": "vig",
+            "author": "vicky"
+        },
+        "56": {
+            "title": "The ",
+            "author": "",
+            "issued_to": null
+        },
+        "6": {
+            "title": "h",
+            "author": "u",
+            "issued_to": null
+        },
+        "76": {
+            "title": "hh",
+            "author": "yd",
+            "issued_to": null
+        },
+        "7": {
+            "title": "y",
+            "author": "s",
+            "issued_to": "5"
+        },
+        "4": {
+            "title": "t",
+            "author": "y",
+            "issued_to": null
+        },
+        "97": {
+            "title": "db",
+            "author": "dj",
+            "issued_to": null
+        },
+        "78": {
+            "title": "f",
+            "author": "t",
+            "issued_to": null
+        },
+        "98": {
+            "title": "r",
+            "author": "g",
+            "issued_to": null
+        },
+        "32": {
+            "title": "h",
+            "author": "g",
+            "issued_to": null
+        }
+    },
+    "users": {
+        "90": {
+            "name": "vignesh",
+            "borrowed_books": []
+        },
+        "5": {
+            "name": "i",
+            "borrowed_books": [
+                "7"
+            ]
+        }
+    }
+}
